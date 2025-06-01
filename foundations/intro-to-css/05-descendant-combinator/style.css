@@ -3,7 +3,7 @@ Exercise: Style p elements inside a div to have:
 - yellow background
 - red text
 - font size of 20px
-- center aligned */
+- text center aligned */
 
 div p {
     background-color:  yellow;
