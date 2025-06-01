@@ -1,0 +1,13 @@
+/* Style sheet
+Exercise: Style p elements inside a div to have:
+- yellow background
+- red text
+- font size of 20px
+- center aligned */
+
+div p {
+    background-color:  yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
